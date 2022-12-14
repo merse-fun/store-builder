@@ -76,3 +76,7 @@ body {
 body::-webkit-scrollbar {
   display: none;
 }
+
+.wallet-adapter-modal-list {
+  cursor: var(--cursor-pointer);
+}
